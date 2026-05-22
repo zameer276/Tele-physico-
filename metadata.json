@@ -1,0 +1,6 @@
+{
+  "name": "TelePhysio Pro",
+  "description": "Premium clinical website for TelePhysio Pro Physiotherapy Clinic in KaraNagar, led by Dr. Wassim Mushtaq, MPT Neurology, featuring WhatsApp appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
